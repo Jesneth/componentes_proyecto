@@ -5,6 +5,4 @@ import { Component, VERSION } from '@angular/core';
   templateUrl: './productos.component.html',
   styleUrls: ['./productos.component.css'],
 })
-export class AppComponent {
-  name = 'Angular ' + VERSION.major;
-}
+export class ProductosComponent {}
